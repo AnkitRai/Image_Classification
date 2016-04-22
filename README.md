@@ -1,8 +1,8 @@
 Author - Ankit Rai
 # Image_Classification/ Computer vision learning
 This repository contains ipython notebooks on image classification problems.
-We will explore from basic to intermediat image classification methods for different problems.
-Libraries or packages generally used but not limited to-
+We will explore from basic to intermediate image classification and/or computer vision methods for different problems.
+Libraries or packages we will generally used but not limited to-
 
 '''
 * sklearn
