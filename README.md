@@ -5,13 +5,13 @@ We will explore from basic to intermediat image classification methods for diffe
 Libraries or packages generally used but not limited to-
 
 '''
-*sklearn
-*skimage
-*opencv (cv2)
-*seaborn
-*matplotlib
-*PIL 
-*pandas
+* sklearn
+* skimage
+* opencv (cv2)
+* seaborn
+* matplotlib
+* PIL 
+* pandas
 '''
 
 Have fun learning!
